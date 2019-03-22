@@ -1,0 +1,7 @@
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\bin\Debug\converter.exe.config
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\bin\Debug\converter.exe
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\bin\Debug\converter.pdb
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\obj\Debug\converter.csprojAssemblyReference.cache
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\obj\Debug\converter.exe
+C:\Users\Isiwat Adenopo\Documents\Projects\Csharp\converter\converter\obj\Debug\converter.pdb
